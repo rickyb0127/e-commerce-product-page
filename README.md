@@ -18,8 +18,8 @@ Your users should be able to:
 - See hover states for all interactive elements on the page
 
 ## Links
-- [live site]()
-- [solution]()
+- [live site](https://dainty-arithmetic-98fd89.netlify.app/)
+- [solution](https://www.frontendmentor.io/solutions/ecommerce-product-page-with-react-and-tailwind-css-flmaAtsKMf)
 
 ## Built With
 - React
